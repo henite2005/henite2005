@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Herbert Nicholas</h1>
-<h3 align="center">A passionate BI Developer & frontend developer from Dar es Salaam</h3>
+<h2 align="center">Hi 👋, I'm Herbert Nicholas</h2>
+<h4 align="center">A passionate BI Developer & frontend developer from Dar es Salaam</h4>
 
-- 👨‍💻 All of my projects are available at [https://github.com/henite2005](https://github.com/henite2005)
+- 👨‍💻 Some of my projects are available at [https://github.com/henite2005](https://github.com/henite2005)
 
 - 📝 I regularly write articles on [https://github.com/henite2005](https://github.com/henite2005)
 
