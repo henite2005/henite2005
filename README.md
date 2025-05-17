@@ -1,4 +1,4 @@
-![mikumi1](https://github.com/user-attachments/assets/992112ae-efc3-4247-9a77-d07ddc32c93b)
+![tarangire2](https://github.com/user-attachments/assets/43159077-eabe-4dec-bbac-3abef02e9a21)
 
 <h2 align="center">Hi 👋, I'm Herbert Nicholas</h2>
 <h4 align="center">A passionate BI Developer & frontend developer from Dar es Salaam</h4>
