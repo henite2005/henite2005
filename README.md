@@ -1,3 +1,5 @@
+![marangu](https://github.com/user-attachments/assets/e2d04b97-2a10-493f-8612-48be2863e493)
+
 <h2 align="center">Hi 👋, I'm Herbert Nicholas</h2>
 <h4 align="center">A passionate BI Developer & frontend developer from Dar es Salaam</h4>
 
